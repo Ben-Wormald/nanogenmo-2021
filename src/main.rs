@@ -48,6 +48,7 @@ fn process_source(
         writer.write(&line).unwrap();
         writer.write("\n".as_bytes()).unwrap();
     }
+    writer.write("\n\n\n\n".as_bytes()).unwrap();
 }
 
 fn process_line(
