@@ -7,6 +7,7 @@ const INTRO: &str = "./text/intro.txt";
 const OUTPUT: &str = "./text/with-loss-of-eden.txt";
 
 const BITS: [u8; 8] = [1, 2, 4, 8, 16, 32, 64, 128];
+const DECAY_POWER: f64 = 7.0;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
@@ -59,6 +60,7 @@ fn process_line(
 ) -> Vec<u8> {
     let bytes = line.bytes();
     let chance = *bytes_read as f64 / *total_bytes as f64;
+    let chance = chance.powf(DECAY_POWER);
 
     bytes.map(|byte|
         BITS.iter().fold(byte, |byte, bit| {
