@@ -3,9 +3,7 @@ John Milton
 1667
 
 
-
 Book I
-
 
 Of Man's first disobedience, and the fruit
 Of that forbidden tree whose mortal taste
@@ -807,9 +805,7 @@ Frequent and full. After short silence then,
 And summons read, the great consult began.
 
 
-
 Book II
-
 
 High on a throne of royal state, which far
 Outshone the wealth or Ormus and of Ind,
@@ -1868,9 +1864,7 @@ Thither, full fraught with mischievous revenge,
 Accursed, and in a cursed hour, he hies.
 
 
-
 Book III
-
 
 Hail, holy Light, offspring of Heaven firstborn,
 Or of the Eternal coeternal beam
@@ -2152,9 +2146,7 @@ The powers of darkness bound. Thou, at the sight
  To me are all my works; nor Man the least,
  Though last created, that for him I spare
  Thee from my bosom and right hand, to save,
- By losing thee a while, the whole race lost.                   
-
-     00021053 
+ By losing thee a while, the whole race lost.
  Thou, therefore, whom thou only canst redeem,
  Their nature also to thy nature join;
  And be thyself Man among men on Earth,
@@ -2619,9 +2611,7 @@ Throws his steep flight in many an aery wheel;
 Nor staid, till on Niphates' top he lights.
 
 
-
 Book IV
-
 
 O, for that warning voice, which he, who saw
 The Apocalypse, heard cry in Heaven aloud,
@@ -2747,25 +2737,23 @@ That practised falsehood under saintly show,
 Deep malice to conceal, couched with revenge:
 Yet not enough had practised to deceive
 Uriel once warned; whose eye pursued him down
- The way he went, and on the Assyrian mount
- Saw him disfigured, more than could befall
- Spirit of happy sort; his gestures fierce
- He marked and mad demeanour, then alone,
- As he supposed, all unobserved, unseen.
- So on he fares, and to the border comes
- Of Eden, where delicious Paradise,
- Now nearer, crowns with her enclosure green,
- As with a rural mound, the champaign head
- Of a steep wilderness, whose hairy sides
+The way he went, and on the Assyrian mount
+Saw him disfigured, more than could befall
+Spirit of happy sort; his gestures fierce
+He marked and mad demeanour, then alone,
+As he supposed, all unobserved, unseen.
+So on he fares, and to the border comes
+Of Eden, where delicious Paradise,
+Now nearer, crowns with her enclosure green,
+As with a rural mound, the champaign head
+Of a steep wilderness, whose hairy sides
 Access denied; and overhead upgrew
- Insuperable height of loftiest shade,
- Cedar, and pine, and fir, and branching palm,
- A sylvan scene, and, as the ranks ascend,
- Shade above shade, a woody theatre
- Of stateliest view. Yet higher than their tops
- The verdurous wall of Paradise upsprung;                       
-
-    00081429 
+Insuperable height of loftiest shade,
+Cedar, and pine, and fir, and branching palm,
+A sylvan scene, and, as the ranks ascend,
+Shade above shade, a woody theatre
+Of stateliest view. Yet higher than their tops
+The verdurous wall of Paradise upsprung;
 Which to our general sire gave prospect large
 Into his nether empire neighbouring round.
 And higher than that wall a circling row
@@ -3639,9 +3627,7 @@ His mounted scale aloft:  Nor more;but fled
 Murmuring, and with him fled the shades of night.
 
 
-
 Book V
-
 
 Now Morn, her rosy steps in the eastern clime
 Advancing, sowed the earth with orient pearl,
@@ -4552,9 +4538,7 @@ And, with retorted scorn, his back he turned
 On those proud towers to swift destruction doomed.
 
 
-
 Book VI
-
 
 All night the dreadless Angel, unpursued,
 Through Heaven's wide champain held his way; till Morn,
@@ -5470,9 +5454,7 @@ Of disobedience; firm they might have stood,
 Yet fell; remember, and fear to transgress.
 
 
-
 Book VII
-
 
 Descend from Heaven, Urania, by that name
 If rightly thou art called, whose voice divine
@@ -6116,9 +6098,7 @@ Informed by thee, might know:  If else thou seekest
 Aught, not surpassing human measure, say.
 
 
-
 Book VIII
-
 
 The Angel ended, and in Adam's ear
 So charming left his voice, that he a while
@@ -6775,9 +6755,7 @@ So parted they; the Angel up to Heaven
 From the thick shade, and Adam to his bower.
 
 
-
 Book IX
-
 
 No more of talk where God or Angel guest
 With Man, as with his friend, familiar us'd,
@@ -6797,9 +6775,7 @@ Of stern Achilles on his foe pursued
 Thrice fugitive about Troy wall; or rage
 Of Turnus for Lavinia disespous'd;
 Or Neptune's ire, or Juno's, that so long
-Perplexed the Greek, and Cytherea's son:                        
-
-   00482129 
+Perplexed the Greek, and Cytherea's son:
 If answerable style I can obtain
 Of my celestial patroness, who deigns
 Her nightly visitation unimplor'd,
@@ -6860,7 +6836,7 @@ From Eden over Pontus and the pool
 Maeotis, up beyond the river Ob;
 Downward as far antarctick; and in length,
 West from Orontes to the ocean barred
-At Darien ; thence to the land where flows
+At Darien; thence to the land where flows
 Ganges and Indus: Thus the orb he roamed
 With narrow search; and with inspection deep
 Considered every creature, which of all
@@ -7971,9 +7947,7 @@ The fruitless hours, but neither self-condemning;
 And of their vain contest appeared no end.
 
 
-
 Book X
-
 
 Mean while the heinous and despiteful act
 Of Satan, done in Paradise; and how
@@ -9050,9 +9024,7 @@ Frequenting, sent from hearts contrite, in sign
 Of sorrow unfeigned, and humiliation meek
 
 
-
 Book XI
-
 
 Undoubtedly he will relent, and turn
 From his displeasure; in whose look serene,
@@ -9341,7 +9313,7 @@ Quiet though sad, the respite of that day
 That must be mortal to us both.  O flowers,
 That never will in other climate grow,
 My early visitation, and my last
- ;t even, which I bred up with tender hand
+At even, which I bred up with tender hand
 From the first opening bud, and gave ye names!
 Who now shall rear ye to the sun, or rank
 Your tribes, and water from the ambrosial fount?
@@ -9981,9 +9953,7 @@ Shall hold their course; till fire purge all things new,
 Both Heaven and Earth, wherein the just shall dwell.
 
 
-
 Book XII
-
 
 As one who in his journey bates at noon,
 Though bent on speed; so here the Arch-Angel paused

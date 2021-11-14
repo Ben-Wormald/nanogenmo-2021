@@ -3,7 +3,6 @@ use std::fs::{File, metadata};
 use std::io::{prelude::*, BufReader, BufWriter};
 use rand::prelude::*;
 
-const INTRO: &str = "./text/intro.txt";
 const OUTPUT: &str = "./text/with-loss-of-eden.txt";
 
 const BITS: [u8; 8] = [1, 2, 4, 8, 16, 32, 64, 128];
@@ -12,12 +11,7 @@ const DECAY_POWER: f64 = 7.0;
 fn main() {
     let args: Vec<String> = env::args().collect();
 
-    let sources = vec!(
-        INTRO,
-        &args[1]
-    );
-
-    let total_bytes = sources.iter().fold(0, |bytes, source|
+    let total_bytes = &args[1..].iter().fold(0, |bytes, source|
         bytes + metadata(source).unwrap().len()
     );
 
@@ -28,7 +22,7 @@ fn main() {
 
     let mut rng = thread_rng();
 
-    sources.iter().for_each(|source|
+    args[1..].iter().for_each(|source|
         process_source(source, &mut bytes_read, &total_bytes, &mut writer, &mut rng)
     );
 }
@@ -49,7 +43,7 @@ fn process_source(
         writer.write(&line).unwrap();
         writer.write("\n".as_bytes()).unwrap();
     }
-    writer.write("\n\n\n\n".as_bytes()).unwrap();
+    writer.write("\n".as_bytes()).unwrap();
 }
 
 fn process_line(
